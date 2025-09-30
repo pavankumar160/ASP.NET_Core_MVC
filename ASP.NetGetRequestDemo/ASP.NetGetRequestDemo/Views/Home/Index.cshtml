@@ -1,0 +1,34 @@
+﻿
+<h2>Student Details</h2>
+
+<form asp-action="GetStudent" method="post">
+	<button type="submit">Get Student Details With Id = 1</button>
+</form>
+
+<form asp-action="GetStudents" method="post">
+	<button type="submit">Get Student Details</button>
+</form>
+
+@model List<ASP.NetGetRequestDemo.Models.Student>
+
+
+@if(Model != null && Model.Count > 0)
+{
+	<table border="1" cellpadding="5">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+        </tr>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+            </tr>
+        }
+
+
+    </table>
+}
