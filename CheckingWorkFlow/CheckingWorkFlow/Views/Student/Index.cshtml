@@ -1,0 +1,29 @@
+﻿<form method="get" asp-action="getStudent">
+	<input type="number" name="Id" placeholder="search By Id" />
+</form>
+
+@model List<CheckingWorkFlow.Models.StudentDetails>  
+
+<h2>Student Details</h2>
+
+
+@if (Model != null && Model.Count > 0)
+{
+    <table border="1" cellpadding="5">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+        </tr>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Department</td>
+            </tr>
+        }
+    </table>
+}

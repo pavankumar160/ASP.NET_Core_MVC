@@ -1,0 +1,9 @@
+﻿@model ControllerReturnTypes.Controllers.Student
+@using System.Text.Json
+
+<h2>Student Data</h2>
+<p>Name: @Model.Name</p>
+<p>Age: @Model.Age</p>
+
+<!-- If you want raw JSON string -->
+<p>JSON: @JsonSerializer.Serialize(Model)</p>

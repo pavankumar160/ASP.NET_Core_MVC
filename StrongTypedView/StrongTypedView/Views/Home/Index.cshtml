@@ -1,0 +1,23 @@
+﻿@model Student
+
+
+<h3>Id : @Model.Id</h3>
+<h3>Name : @Model.Name</h3>
+<h3>Age : @(Model.Age + 1)</h3>
+
+
+<h3>Id : @ViewData["Id"]</h3>
+<h3>Name : @ViewData["Name"]</h3>
+
+
+
+@if(ViewData["Age"] != null)
+{
+	<h3>Age : @(((ViewData["Age"] as int?) ?? 0) + 1) </h3>
+}
+
+
+<h3>Id : @ViewBag.Id</h3>
+<h3>Id : @ViewBag.Name</h3>
+<h3>Id : @(ViewBag.Age + 1)</h3>
+

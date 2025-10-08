@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\pratice\\pratice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|solutionrelative:pratice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\pratice\\pratice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|solutionrelative:pratice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\pratice\\pratice\\views\\home\\_studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1145C541-18EB-4236-8683-E5CC6D049673}|Pratice\\Pratice.csproj|solutionrelative:pratice\\views\\home\\_studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_StudentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Views\\Home\\_StudentList.cshtml",
+              "RelativeDocumentMoniker": "Pratice\\Views\\Home\\_StudentList.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Views\\Home\\_StudentList.cshtml",
+              "RelativeToolTip": "Pratice\\Views\\Home\\_StudentList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T04:54:33.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pratice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Pratice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T04:29:16.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Pratice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Pratice\\Pratice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Pratice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T04:26:17.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

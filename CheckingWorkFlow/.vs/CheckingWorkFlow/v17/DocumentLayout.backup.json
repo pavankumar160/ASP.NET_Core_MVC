@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\checkingworkflow\\checkingworkflow\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|solutionrelative:checkingworkflow\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\checkingworkflow\\checkingworkflow\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|solutionrelative:checkingworkflow\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\checkingworkflow\\checkingworkflow\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DEA5C3-BEE7-444F-9438-A71F3EDD9120}|CheckingWorkFlow\\CheckingWorkFlow.csproj|solutionrelative:checkingworkflow\\models\\studentdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Models\\StudentDetails.cs",
+              "RelativeDocumentMoniker": "CheckingWorkFlow\\Models\\StudentDetails.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Models\\StudentDetails.cs",
+              "RelativeToolTip": "CheckingWorkFlow\\Models\\StudentDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:54:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CheckingWorkFlow\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CheckingWorkFlow\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T06:31:28.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "CheckingWorkFlow\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\CheckingWorkFlow\\CheckingWorkFlow\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "CheckingWorkFlow\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-03T06:29:13.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

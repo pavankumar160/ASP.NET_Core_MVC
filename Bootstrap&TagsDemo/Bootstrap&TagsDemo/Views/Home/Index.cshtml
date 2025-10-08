@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Bootstrap Example";
+}
+
+<!-- Include Bootstrap CSS -->
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+<!-- NAVBAR -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="#">My MVC App</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#menu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="menu">
+            <ul class="navbar-nav ms-auto">
+                <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- HERO SECTION -->
+<div class="container text-center mt-5">
+    <h1 class="text-primary fw-bold">Welcome to My Website</h1>
+    <p class="lead text-secondary">This page is built using only Bootstrap — no custom CSS!</p>
+    <button class="btn btn-success btn-lg mt-3">Get Started</button>
+</div>
+
+<!-- CARD SECTION -->
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0">
+                <img src="~/images/card1.jpg" class="card-img-top" alt="Card Image 1">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Fast Development</h5>
+                    <p class="card-text">Bootstrap helps you create responsive pages quickly.</p>
+                    <a href="#" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mt-4 mt-md-0">
+            <div class="card shadow-lg border-0">
+                <img src="~/images/card2.jpg" class="card-img-top" alt="Card Image 2">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Responsive Design</h5>
+                    <p class="card-text">Your site will look great on all screen sizes.</p>
+                    <a href="#" class="btn btn-primary">Try It</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mt-4 mt-md-0">
+            <div class="card shadow-lg border-0">
+                <img src="~/images/card3.jpg" class="card-img-top" alt="Card Image 3">
+                <div class="card-body text-center">
+                    <h5 class="card-title">Easy to Use</h5>
+                    <p class="card-text">Just use predefined classes — no CSS needed!</p>
+                    <a href="#" class="btn btn-primary">Explore</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer class="bg-dark text-white text-center p-3 mt-5">
+    © 2025 My MVC App. All rights reserved.
+</footer>
+
+<!-- Include Bootstrap JS -->
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

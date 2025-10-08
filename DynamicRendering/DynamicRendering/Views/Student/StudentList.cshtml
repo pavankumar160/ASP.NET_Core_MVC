@@ -1,0 +1,14 @@
+﻿
+@model List< DynamicRendering.Models.Student>
+
+@if(Model != null && Model.Count > 0)
+{
+	@foreach (var student in Model)
+	{
+
+		<h3>Id = @student.Id</h3>
+		<h3>Name = @student.Name</h3>
+		<h3>Age = @student.Age</h3>
+		<h3>Department = @student.Department</h3>
+	}
+} 

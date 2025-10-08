@@ -1,0 +1,11 @@
+﻿@inject IDateTimeService DateTimeService
+
+@{
+	DateTimeService.Data = 10;
+}
+
+<p>Current Time: @DateTimeService.GetCurrentTime()</p>
+
+<form asp-action="Privacy" asp-controller="Home">
+	<button type="submit">click me</button>
+</form>

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\hstsdemo\\hstsdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|solutionrelative:hstsdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\hstsdemo\\hstsdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|solutionrelative:hstsdemo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\hstsdemo\\hstsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|solutionrelative:hstsdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\hstsdemo\\hstsdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{86FA910C-0698-4F2A-BA7B-42CF7714150E}|HSTSDemo\\HSTSDemo.csproj|solutionrelative:hstsdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HSTSDemo\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HSTSDemo\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-07T09:09:29.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HSTSDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "HSTSDemo\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:00:17.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HSTSDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HSTSDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T09:00:05.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Program.cs",
+              "RelativeDocumentMoniker": "HSTSDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\HSTSDemo\\HSTSDemo\\Program.cs",
+              "RelativeToolTip": "HSTSDemo\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T09:11:30.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

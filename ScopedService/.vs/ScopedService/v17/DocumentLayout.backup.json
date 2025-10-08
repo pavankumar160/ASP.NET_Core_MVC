@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\scopedservice\\scopedservice\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\scopedservice\\scopedservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\scopedservice\\scopedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\scopedservice\\scopedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\scopedservice\\scopedservice\\models\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1692461B-3557-4C74-9743-F38CD5C74123}|ScopedService\\ScopedService.csproj|solutionrelative:scopedservice\\models\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "ScopedService\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "ScopedService\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T14:09:32.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ScopedService\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ScopedService\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T13:40:39.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Program.cs",
+              "RelativeDocumentMoniker": "ScopedService\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Program.cs",
+              "RelativeToolTip": "ScopedService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T13:00:47.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ScopedService\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ScopedService\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:40:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Models\\CartService.cs",
+              "RelativeDocumentMoniker": "ScopedService\\Models\\CartService.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ScopedService\\ScopedService\\Models\\CartService.cs",
+              "RelativeToolTip": "ScopedService\\Models\\CartService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:41:16.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

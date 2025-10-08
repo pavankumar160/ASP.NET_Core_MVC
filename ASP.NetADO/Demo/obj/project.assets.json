@@ -2375,11 +2375,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetADO\\Demo\\Demo.csproj",
+      "projectUniqueName": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Demo.csproj",
       "projectName": "Demo",
-      "projectPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetADO\\Demo\\Demo.csproj",
+      "projectPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Demo.csproj",
       "packagesPath": "C:\\Users\\Pavan Madapu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetADO\\Demo\\obj\\",
+      "outputPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

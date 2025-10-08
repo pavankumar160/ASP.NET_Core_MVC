@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj": {}
+    "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj": {
+    "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
+        "projectUniqueName": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
         "projectName": "ASP.NetCodeFirst",
-        "projectPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
+        "projectPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
         "packagesPath": "C:\\Users\\Pavan Madapu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\obj\\",
+        "outputPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

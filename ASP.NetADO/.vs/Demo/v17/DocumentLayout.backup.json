@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\",
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\views\\home\\testing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\testing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcoremvc\\demo\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\views\\home\\testing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\views\\home\\testing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\asp.netado\\demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B580844A-107A-4D5C-84F0-E2E170E32800}|Demo\\Demo.csproj|solutionrelative:demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,78 +42,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Demo\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Demo\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:03:36.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-24T09:03:36.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Demo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Models\\Student.cs",
+              "RelativeToolTip": "Demo\\Models\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T09:03:18.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\appsettings.json",
+              "RelativeToolTip": "Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-24T09:01:56.257Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Models\\Student.cs",
-              "RelativeDocumentMoniker": "Demo\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Models\\Student.cs",
-              "RelativeToolTip": "Demo\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T09:03:18.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\appsettings.json",
-              "RelativeDocumentMoniker": "Demo\\appsettings.json",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\appsettings.json",
-              "RelativeToolTip": "Demo\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-24T09:01:56.257Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Program.cs",
               "RelativeDocumentMoniker": "Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Program.cs",
               "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T09:07:55.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Testing.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Views\\Home\\Testing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Views\\Home\\Testing.cshtml",
               "RelativeDocumentMoniker": "Demo\\Views\\Home\\Testing.cshtml",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Views\\Home\\Testing.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Views\\Home\\Testing.cshtml",
               "RelativeToolTip": "Demo\\Views\\Home\\Testing.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T11:05:36.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-26T11:05:36.819Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Demo\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\Demo\\Demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Demo\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-24T09:04:28.854Z",
               "EditorCaption": ""

@@ -1,0 +1,33 @@
+﻿<h1>welcome to my webpage</h1>
+
+<p>This page demonstrate dynamic rendering using "Partial Views + AJAX"</p>
+
+<div id="student-container">
+    <!-- Partial view will be loaded here -->
+</div>
+
+
+<button id="load-btn">Load Students</button>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>
+    $("#load-btn").click(function() {
+        $.get("/Student/LoadStudents", function(data) {
+            $("#student-container").html(data);
+        });
+    });
+</script>
+
+
+@* @model List< DynamicRendering.Models.Student>;
+
+@if(Model != null && Model.Count > 0)
+{
+	@foreach (var student in Model)
+	{
+		<h3>Id = @student.Id</h3>
+		<h3>Name = @student.Name</h3>
+		<h3>Age = @student.Age</h3>
+		<h3>Department = @student.Department</h3>
+	}
+} *@

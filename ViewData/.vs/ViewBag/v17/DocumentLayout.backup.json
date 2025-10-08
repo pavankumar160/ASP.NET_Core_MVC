@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewbag\\viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|solutionrelative:viewbag\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewbag\\viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|solutionrelative:viewbag\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewbag\\viewbag\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B2CCA3C-6D79-4526-BE9F-6804CAFFD7D1}|ViewBag\\ViewBag.csproj|solutionrelative:viewbag\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ViewBag\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ViewBag\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T16:49:37.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBag\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBag\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T16:33:56.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBag\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewBag\\ViewBag\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewBag\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-07T16:33:35.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

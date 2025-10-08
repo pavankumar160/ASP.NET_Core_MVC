@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b7Lik3fPcfc=",
+  "dgSpecHash": "Dm4VYVlblgw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
+  "projectFilePath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetCodeFirst\\ASP.NetCodeFirst\\ASP.NetCodeFirst.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pavan Madapu\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Pavan Madapu\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

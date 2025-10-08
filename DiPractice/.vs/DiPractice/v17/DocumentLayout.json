@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\dipractice\\dipractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|solutionrelative:dipractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\dipractice\\dipractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|solutionrelative:dipractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\dipractice\\dipractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|solutionrelative:dipractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\dipractice\\dipractice\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|solutionrelative:dipractice\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\dipractice\\dipractice\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027BDA34-7092-49C0-90E0-B2B5DE73C725}|DiPractice\\DiPractice.csproj|solutionrelative:dipractice\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DiPractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DiPractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:33:48.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Program.cs",
+              "RelativeDocumentMoniker": "DiPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Program.cs",
+              "RelativeToolTip": "DiPractice\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:09:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DiPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DiPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:08:15.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DiPractice\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DiPractice\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:34:43.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Models\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "DiPractice\\Models\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiPractice\\DiPractice\\Models\\CalculatorService.cs",
+              "RelativeToolTip": "DiPractice\\Models\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:06:12.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

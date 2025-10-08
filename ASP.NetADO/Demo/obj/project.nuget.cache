@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7SSdvq/yJio=",
+  "dgSpecHash": "AjH2mlTUxx8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCoreMVC\\ASP.NetADO\\Demo\\Demo.csproj",
+  "projectFilePath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ASP.NetADO\\Demo\\Demo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pavan Madapu\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\Pavan Madapu\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

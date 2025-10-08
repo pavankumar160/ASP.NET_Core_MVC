@@ -1,0 +1,8 @@
+﻿
+<h3>@ViewData["Title"]</h3>
+<h3>@(ViewBag.TotalStudents + 1)</h3>
+
+@foreach(var student in Model)
+{
+	<ol>@student.Id - @student.Name - @student.Marks</ol>
+}

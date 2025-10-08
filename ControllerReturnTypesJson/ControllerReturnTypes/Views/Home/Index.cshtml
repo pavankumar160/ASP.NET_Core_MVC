@@ -1,0 +1,18 @@
+﻿@* 
+@if(Model != null){
+	<h1>@Model</h1>
+} *@
+
+<h2>Student Data (via AJAX)</h2>
+<div id="student">
+
+</div>
+
+<script>
+    fetch('/Home/GetStudentJson')
+        .then(res => res.json())
+        .then(data => {
+            document.getElementById("student").innerHTML =
+                "Name: " + data.name + ", Age: " + data.age;
+        });
+</script>

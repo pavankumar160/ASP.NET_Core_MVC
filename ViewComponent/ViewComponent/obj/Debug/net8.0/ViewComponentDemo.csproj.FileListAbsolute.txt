@@ -1,0 +1,9 @@
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.AssemblyInfoInputs.cache
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.AssemblyInfo.cs
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.csproj.CoreCompileInputs.cache
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.RazorAssemblyInfo.cache
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.RazorAssemblyInfo.cs
+C:\Users\Pavan Madapu\Desktop\ASP.NetCore-MVC\ViewComponent\ViewComponent\obj\Debug\net8.0\ViewComponentDemo.sourcelink.json

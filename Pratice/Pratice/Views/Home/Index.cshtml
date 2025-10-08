@@ -1,0 +1,8 @@
+﻿@* <h3>Student Name : @ViewData["StudentName"]</h3>
+<h3>Student College : @ViewData["College"]</h3> *@
+
+@model List<Student>
+
+
+
+@Html.Partial("_StudentList", Model)
