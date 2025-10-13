@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\models\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\models\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\diviews\\diviews\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26CADC4B-C729-4E5C-8373-F926001213BD}|DiViews\\DiViews.csproj|solutionrelative:diviews\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,25 +38,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "DiViews\\Views\\Home\\Privacy.cshtml",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "DiViews\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-08T09:20:47.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Program.cs",
               "RelativeDocumentMoniker": "DiViews\\Program.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Program.cs*",
-              "RelativeToolTip": "DiViews\\Program.cs*",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Program.cs",
+              "RelativeToolTip": "DiViews\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T09:10:55.797Z",
@@ -64,39 +64,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DiViews\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DiViews\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "DiViews\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-08T09:04:48.947Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DiViews\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DiViews\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T09:20:41.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "DateTimeService.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Models\\DateTimeService.cs",
               "RelativeDocumentMoniker": "DiViews\\Models\\DateTimeService.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\DiViews\\DiViews\\Models\\DateTimeService.cs",
               "RelativeToolTip": "DiViews\\Models\\DateTimeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T09:06:50.101Z",
               "EditorCaption": ""

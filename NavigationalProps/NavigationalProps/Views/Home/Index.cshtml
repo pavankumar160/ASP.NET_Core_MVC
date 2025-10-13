@@ -1,0 +1,21 @@
+﻿@model List<NavigationalProps.Models.Student>
+
+<h2>Students and their Departments</h2>
+
+<table border="1" cellpadding="6">
+    <thead>
+        <tr>
+            <th>Student Name</th>
+            <th>Department Name</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Name</td>
+            <td>@s.Department.DeptName</td> <!-- Navigational property -->
+        </tr>
+    }
+    </tbody>
+</table>

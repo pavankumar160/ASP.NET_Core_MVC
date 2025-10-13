@@ -10,8 +10,8 @@ namespace DiViews
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
-            builder.Services.AddTransient<IDateTimeService, DateTimeService>();
-
+            builder.Services.AddSingleton<IDateTimeService, DateTimeService>();
+            
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.

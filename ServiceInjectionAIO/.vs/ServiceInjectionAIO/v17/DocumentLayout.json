@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\serviceinjectionaio\\serviceinjectionaio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|solutionrelative:serviceinjectionaio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\serviceinjectionaio\\serviceinjectionaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|solutionrelative:serviceinjectionaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\serviceinjectionaio\\serviceinjectionaio\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|solutionrelative:serviceinjectionaio\\models\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\serviceinjectionaio\\serviceinjectionaio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|solutionrelative:serviceinjectionaio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\serviceinjectionaio\\serviceinjectionaio\\views\\home\\scoped.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9580D5ED-03E0-4DD7-B39F-B527B822DBC2}|ServiceInjectionAIO\\ServiceInjectionAIO.csproj|solutionrelative:serviceinjectionaio\\views\\home\\scoped.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Scoped.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Views\\Home\\Scoped.cshtml",
+              "RelativeDocumentMoniker": "ServiceInjectionAIO\\Views\\Home\\Scoped.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Views\\Home\\Scoped.cshtml",
+              "RelativeToolTip": "ServiceInjectionAIO\\Views\\Home\\Scoped.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T09:14:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ServiceInjectionAIO\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ServiceInjectionAIO\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T09:07:21.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceInjectionAIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Program.cs",
+              "RelativeToolTip": "ServiceInjectionAIO\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:51:29.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ServiceInjectionAIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ServiceInjectionAIO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:49:13.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Models\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "ServiceInjectionAIO\\Models\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ServiceInjectionAIO\\ServiceInjectionAIO\\Models\\CalculatorService.cs",
+              "RelativeToolTip": "ServiceInjectionAIO\\Models\\CalculatorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:47:12.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

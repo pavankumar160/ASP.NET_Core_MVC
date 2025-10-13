@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ViewModel-VS-StronglyTypedViews/1.0.0": {
+        "runtime": {
+          "ViewModel-VS-StronglyTypedViews.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ViewModel-VS-StronglyTypedViews/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

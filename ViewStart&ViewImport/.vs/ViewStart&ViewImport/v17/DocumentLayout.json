@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|solutionrelative:viewstart\u0026viewimport\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0805E53-D16C-4661-B8FF-358576104E3E}|ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\viewstart\u0026viewimport\\viewstart\u0026viewimport\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,11 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "ViewStart\u0026ViewImport\\Models\\ErrorViewModel.cs",
@@ -46,12 +50,11 @@
               "RelativeToolTip": "ViewStart\u0026ViewImport\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T13:09:17.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T13:09:17.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ViewStart\u0026ViewImport\\Views\\_ViewImports.cshtml",
@@ -64,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "ViewStart\u0026ViewImport\\Views\\Shared\\Error.cshtml",
@@ -76,18 +79,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ViewStart\u0026ViewImport\\Views\\_ViewStart.cshtml",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ViewStart\u0026ViewImport\\ViewStart\u0026ViewImport\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "ViewStart\u0026ViewImport\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-08T12:59:20.457Z",
               "EditorCaption": ""
@@ -102,8 +101,7 @@
               "RelativeToolTip": "ViewStart\u0026ViewImport\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T12:59:54.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T12:59:54.273Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "ViewStart\u0026ViewImport\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T12:58:21.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T12:58:21.864Z"
             }
           ]
         }

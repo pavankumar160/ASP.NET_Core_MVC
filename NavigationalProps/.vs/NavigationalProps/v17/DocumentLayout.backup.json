@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\navigationalprops\\navigationalprops\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|solutionrelative:navigationalprops\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\navigationalprops\\navigationalprops\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|solutionrelative:navigationalprops\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\navigationalprops\\navigationalprops\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|solutionrelative:navigationalprops\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\navigationalprops\\navigationalprops\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43F867F-C017-4F46-8BE8-ACB7E92DA304}|NavigationalProps\\NavigationalProps.csproj|solutionrelative:navigationalprops\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NavigationalProps\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "NavigationalProps\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:23:06.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NavigationalProps\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NavigationalProps\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T08:22:14.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "NavigationalProps\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Models\\Department.cs*",
+              "RelativeToolTip": "NavigationalProps\\Models\\Department.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:09:26.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "NavigationalProps\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\NavigationalProps\\NavigationalProps\\Models\\Student.cs",
+              "RelativeToolTip": "NavigationalProps\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:09:05.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,5 @@
+using StrongTypedView.Models;
+
 namespace StrongTypedView
 {
     public class Program
@@ -8,6 +10,7 @@ namespace StrongTypedView
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddTransient<IDateTimeService, DateTimeService>();
 
             var app = builder.Build();
 

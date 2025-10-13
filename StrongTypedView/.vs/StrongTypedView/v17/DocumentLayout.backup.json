@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\strongtypedview\\strongtypedview\\models\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C3F7BE-F518-4BF6-8D6B-A58A27DCA9C7}|StrongTypedView\\StrongTypedView.csproj|solutionrelative:strongtypedview\\models\\datetimeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,34 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "StrongTypedView\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "StrongTypedView\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBUAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T11:32:25.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "StrongTypedView\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "StrongTypedView\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-08T11:32:18.706Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -57,15 +43,78 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StrongTypedView\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StrongTypedView\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T11:32:25.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StrongTypedView\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StrongTypedView\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:30:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StrongTypedView\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "StrongTypedView\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T11:32:18.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Program.cs",
+              "RelativeDocumentMoniker": "StrongTypedView\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Program.cs",
+              "RelativeToolTip": "StrongTypedView\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:53:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StrongTypedView\\Models\\Student.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Models\\Student.cs",
               "RelativeToolTip": "StrongTypedView\\Models\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T11:32:04.355Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DateTimeService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Models\\DateTimeService.cs",
+              "RelativeDocumentMoniker": "StrongTypedView\\Models\\DateTimeService.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\StrongTypedView\\StrongTypedView\\Models\\DateTimeService.cs",
+              "RelativeToolTip": "StrongTypedView\\Models\\DateTimeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:56:14.23Z"
             }
           ]
         }

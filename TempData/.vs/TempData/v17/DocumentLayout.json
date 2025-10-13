@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\tempdata\\tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|solutionrelative:tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\tempdata\\tempdata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|solutionrelative:tempdata\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\tempdata\\tempdata\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\tempdata\\tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|solutionrelative:tempdata\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\tempdata\\tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9D8D3C7-E804-4670-B57F-A833BBC8CC65}|TempData\\TempData.csproj|solutionrelative:tempdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\TempData\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TempData\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\TempData\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TempData\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T12:56:22.447Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +53,7 @@
               "RelativeDocumentMoniker": "TempData\\Views\\Home\\Display.cshtml",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\TempData\\Views\\Home\\Display.cshtml",
               "RelativeToolTip": "TempData\\Views\\Home\\Display.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-08T06:03:08.927Z",
               "EditorCaption": ""
@@ -51,18 +72,14 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\TempData\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TempData\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\TempData\\TempData\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TempData\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowBoAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T05:54:14.232Z",
               "EditorCaption": ""
