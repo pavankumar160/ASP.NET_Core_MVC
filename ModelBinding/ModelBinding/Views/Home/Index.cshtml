@@ -1,5 +1,11 @@
 ﻿<form asp-action="SaveStudent" asp-controller="Home" method="post">
-	<input type="number" name="Id" />
-	<input type="text" name="Name"/>
+	<input type="number" name="student.Id" placeholder = "Student Id" />
+	<input type="text" name="student.Name" placeholder = "Student Name"/>
+	<input type="number" name="department.Id" placeholder = "Department Id"/>
+	<input type="text" name="department.Name" placeholder = "Department Name"/>
 	<input type="submit"/>
 </form>
+
+@* @model int
+
+<h2>@Model</h2> *@

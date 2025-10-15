@@ -1,0 +1,6 @@
+﻿<form asp-action="StudentDetails" method="post" asp-controller="Home">
+	<input type="hidden" name="XId" value="@ViewContext.RouteData.Values["id"]" />
+	<input name = "Id" type="number" placeholder = "Student Id"/>
+	<input name = "Name" type="text" placeholder = "Student Name"/>
+	<input type="submit"/>
+</form>

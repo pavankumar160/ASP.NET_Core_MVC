@@ -13,16 +13,16 @@ namespace ModelBinding.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(int Id)
         {
-            return View();
+            return View(Id);
         }
 
         [HttpPost]
 
-        public IActionResult SaveStudent(Student student)
-        {
-            return View(student);
+        public IActionResult SaveStudent(Student_Department SD)
+        {   
+            return View(SD);
         }
 
         public IActionResult Privacy()
