@@ -1,0 +1,17 @@
+﻿@* <form method="post" asp-action="SaveStudent">
+    <input name="Name"  placeholder="Enter Name"/>
+    <input name="Age"  palceholder="Enter Age"/>
+    <button type="submit">Submit</button>
+</form> *@
+
+<form asp-action="SaveStudent" method="post">
+    <label asp-for="Name"></label>
+    <input asp-for="Name" />
+    <span asp-validation-for="Name" style="color:red"></span>
+
+    <label asp-for="Age"></label>
+    <input asp-for="Age" />
+    <span asp-validation-for="Age" style="color:red"></span>
+
+    <button type="submit">Submit</button>
+</form>

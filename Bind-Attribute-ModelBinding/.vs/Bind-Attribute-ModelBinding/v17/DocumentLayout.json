@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\views\\home\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\bind-attribute-modelbinding\\bind-attribute-modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F72874DA-6AE5-4751-90A7-7728E000C9F9}|Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding.csproj|solutionrelative:bind-attribute-modelbinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +26,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Save.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding\\Views\\Home\\Save.cshtml",
               "RelativeDocumentMoniker": "Bind-Attribute-ModelBinding\\Views\\Home\\Save.cshtml",
@@ -43,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Bind-Attribute-ModelBinding\\Views\\Home\\Index.cshtml",
@@ -56,24 +64,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Bind-Attribute-ModelBinding\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Bind-Attribute-ModelBinding\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T08:41:02.611Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Bind-Attribute-ModelBinding\\Bind-Attribute-ModelBinding\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Bind-Attribute-ModelBinding\\Models\\Student.cs",

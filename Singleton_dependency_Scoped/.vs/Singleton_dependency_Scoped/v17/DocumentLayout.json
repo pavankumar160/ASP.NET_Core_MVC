@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\singleton_dependency_scoped\\singleton_dependency_scoped\\models\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|solutionrelative:singleton_dependency_scoped\\models\\counterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\singleton_dependency_scoped\\singleton_dependency_scoped\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|solutionrelative:singleton_dependency_scoped\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\singleton_dependency_scoped\\singleton_dependency_scoped\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|solutionrelative:singleton_dependency_scoped\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\singleton_dependency_scoped\\singleton_dependency_scoped\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4153E2C4-55F2-4C10-B52E-7543DCD464E1}|Singleton_dependency_Scoped\\Singleton_dependency_Scoped.csproj|solutionrelative:singleton_dependency_scoped\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Singleton_dependency_Scoped\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Singleton_dependency_Scoped\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T04:21:30.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Program.cs",
+              "RelativeDocumentMoniker": "Singleton_dependency_Scoped\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Program.cs",
+              "RelativeToolTip": "Singleton_dependency_Scoped\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:19:30.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CounterService.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Models\\CounterService.cs",
+              "RelativeDocumentMoniker": "Singleton_dependency_Scoped\\Models\\CounterService.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Models\\CounterService.cs",
+              "RelativeToolTip": "Singleton_dependency_Scoped\\Models\\CounterService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:16:49.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Singleton_dependency_Scoped\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Singleton_dependency_Scoped\\Singleton_dependency_Scoped\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Singleton_dependency_Scoped\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T04:15:13.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
