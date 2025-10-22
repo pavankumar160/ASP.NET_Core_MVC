@@ -25,6 +25,7 @@ namespace Cookies.Controllers
                 };
             Response.Cookies.Append("User", "Pavan", options);
             Response.Cookies.Append("Theme", "Dark", options);
+            
             return View();
         }
 
