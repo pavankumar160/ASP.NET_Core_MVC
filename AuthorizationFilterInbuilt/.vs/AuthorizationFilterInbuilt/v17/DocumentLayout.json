@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\authorizationfilterinbuilt\\authorizationfilterinbuilt\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|solutionrelative:authorizationfilterinbuilt\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\authorizationfilterinbuilt\\authorizationfilterinbuilt\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|solutionrelative:authorizationfilterinbuilt\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\authorizationfilterinbuilt\\authorizationfilterinbuilt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|solutionrelative:authorizationfilterinbuilt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\authorizationfilterinbuilt\\authorizationfilterinbuilt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|solutionrelative:authorizationfilterinbuilt\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\authorizationfilterinbuilt\\authorizationfilterinbuilt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A59F7463-56B2-411E-ACD2-2BE808722BE8}|AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt.csproj|solutionrelative:authorizationfilterinbuilt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthorizationFilterInbuilt\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthorizationFilterInbuilt\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T06:01:54.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthorizationFilterInbuilt\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthorizationFilterInbuilt\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswDgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:59:26.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizationFilterInbuilt\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Program.cs",
+              "RelativeToolTip": "AuthorizationFilterInbuilt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:50:33.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "AuthorizationFilterInbuilt\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "AuthorizationFilterInbuilt\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T06:04:47.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "AuthorizationFilterInbuilt\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\AuthorizationFilterInbuilt\\AuthorizationFilterInbuilt\\Models\\UserInfo.cs",
+              "RelativeToolTip": "AuthorizationFilterInbuilt\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:02:33.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
