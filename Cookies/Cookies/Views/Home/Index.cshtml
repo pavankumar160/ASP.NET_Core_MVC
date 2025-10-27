@@ -1,10 +1,19 @@
-﻿@{
+﻿@* @{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+</div> *@
 
-<a asp-action="ReadCookie">Test</a>
+@* <a asp-action="ReadCookie">Test</a> *@
+
+
+<h1>Cart Items:</h1>
+<h3>@TempData["Item1"]</h3>
+<h3>@TempData["Item2"]</h3>
+<h3>@TempData["Item3"]</h3>
+
+
+<a asp-action="NextPage">Next Page</a>

@@ -15,20 +15,62 @@ namespace Cookies.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public IActionResult Opening()
+        {
+           
+            return View();
+
+        }
+
+        public IActionResult Index(string? Name)
         {
             //Creating Cookie
 
-            CookieOptions options = new CookieOptions { 
+            CookieOptions options = new CookieOptions
+            {
                 Expires = DateTime.Now.AddMinutes(3),
                 HttpOnly = true
-                };
+            };
+
             Response.Cookies.Append("User", "Pavan", options);
-            Response.Cookies.Append("Theme", "Dark", options);
-            
-            return View();
+
+
+            if (Request.Cookies["User"] == "Pavan")
+            {
+                TempData["Item1"] = "Phone";
+                TempData["Item2"] = "TV";
+                TempData["Item3"] = "Washing Machine";
+                TempData.Peek("Item1");
+                TempData.Peek("Item2");
+                TempData.Peek("Item3");
+
+                return View();
+            }
+
+            else
+            {
+                return Content($"Invalid User");
+            }
+
+            //Response.Cookies.Append("Theme", "Dark", options);
+
         }
 
+        public IActionResult NextPage()
+        {
+            if (Request.Cookies["User"] == "Pavan")
+            {
+                TempData["Item4"] = "Laptop";
+                return View();
+            }
+            else
+            {
+                return Content($"Invalid User");
+            }
+
+               
+            
+        }
         public IActionResult ReadCookie()
         {
             // Read cookies

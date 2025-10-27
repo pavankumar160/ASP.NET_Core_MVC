@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\models\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\views\\home\\modelbinding_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\views\\home\\modelbinding_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|solutionrelative:modelbindingaio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8114AAEF-FAE3-4124-BCEB-8BA625819C68}|ModelBindingAIO\\ModelBindingAIO.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\modelbindingaio\\modelbindingaio\\views\\home\\modelbinding_form_bind.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,24 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ModelBindingAIO\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ModelBindingAIO\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:03:07.767Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -59,33 +46,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentData.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Models\\StudentData.cs",
-              "RelativeDocumentMoniker": "ModelBindingAIO\\Models\\StudentData.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Models\\StudentData.cs",
-              "RelativeToolTip": "ModelBindingAIO\\Models\\StudentData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelBindingAIO\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelBindingAIO\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:48:33.259Z",
+              "WhenOpened": "2025-10-16T06:03:07.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ModelBindingAIO\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ModelBindingAIO\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-16T06:39:01.647Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Program.cs",
+              "RelativeDocumentMoniker": "ModelBindingAIO\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Program.cs",
+              "RelativeToolTip": "ModelBindingAIO\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:04:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Models\\StudentData.cs",
+              "RelativeDocumentMoniker": "ModelBindingAIO\\Models\\StudentData.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Models\\StudentData.cs",
+              "RelativeToolTip": "ModelBindingAIO\\Models\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T06:48:33.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ModelBinding_Form.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Views\\Home\\ModelBinding_Form.cshtml",
               "RelativeDocumentMoniker": "ModelBindingAIO\\Views\\Home\\ModelBinding_Form.cshtml",
@@ -98,19 +111,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Program.cs",
-              "RelativeDocumentMoniker": "ModelBindingAIO\\Program.cs",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Program.cs",
-              "RelativeToolTip": "ModelBindingAIO\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T06:04:44.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ModelBinding_Form_Bind.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ModelBindingAIO\\ModelBindingAIO\\Views\\Home\\ModelBinding_Form_Bind.cshtml",
@@ -119,8 +119,7 @@
               "RelativeToolTip": "ModelBindingAIO\\Views\\Home\\ModelBinding_Form_Bind.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T08:44:46.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:44:46.432Z"
             }
           ]
         }

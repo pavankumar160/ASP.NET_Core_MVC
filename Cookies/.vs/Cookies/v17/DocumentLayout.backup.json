@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\cookies\\cookies\\views\\home\\opening.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|solutionrelative:cookies\\views\\home\\opening.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\cookies\\cookies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|solutionrelative:cookies\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\cookies\\cookies\\views\\home\\readcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|solutionrelative:cookies\\views\\home\\readcookie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\cookies\\cookies\\views\\home\\nextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|solutionrelative:cookies\\views\\home\\nextpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A99220B-1CA8-4E62-AB1B-2371DDD9E9EF}|Cookies\\Cookies.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\cookies\\cookies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Opening.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\Opening.cshtml",
+              "RelativeDocumentMoniker": "Cookies\\Views\\Home\\Opening.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\Opening.cshtml",
+              "RelativeToolTip": "Cookies\\Views\\Home\\Opening.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T09:19:04.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\NextPage.cshtml",
+              "RelativeDocumentMoniker": "Cookies\\Views\\Home\\NextPage.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\NextPage.cshtml",
+              "RelativeToolTip": "Cookies\\Views\\Home\\NextPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T09:11:54.552Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -38,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Program.cs",
               "RelativeDocumentMoniker": "Cookies\\Program.cs",
@@ -46,44 +76,34 @@
               "RelativeToolTip": "Cookies\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-21T11:38:41.778Z"
+              "WhenOpened": "2025-10-21T11:38:41.778Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ReadCookie.cshtml",
-              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\ReadCookie.cshtml",
-              "RelativeDocumentMoniker": "Cookies\\Views\\Home\\ReadCookie.cshtml",
-              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\ReadCookie.cshtml",
-              "RelativeToolTip": "Cookies\\Views\\Home\\ReadCookie.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T11:33:34.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Cookies\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Cookies\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-21T10:04:02.944Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Cookies\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Cookies\\Cookies\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Cookies\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-21T11:37:04.305Z"
+              "WhenOpened": "2025-10-21T11:37:04.305Z",
+              "EditorCaption": ""
             }
           ]
         }

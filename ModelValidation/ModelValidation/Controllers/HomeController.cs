@@ -27,7 +27,7 @@ namespace ModelValidation.Controllers
                 return View(student);
             }
             else
-                return Content($"Invalid data");
+                return View();
         }
         public IActionResult Privacy()
         {

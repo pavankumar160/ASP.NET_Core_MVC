@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModelBindingAIO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c79b136cafadf9e89f8f51488e4007886e9ba61")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e48e9caa362c2fb42f33cea68431a439bd1467fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModelBindingAIO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModelBindingAIO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

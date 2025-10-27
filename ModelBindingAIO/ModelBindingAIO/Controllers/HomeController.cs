@@ -29,7 +29,7 @@ namespace ModelBindingAIO.Controllers
             return Content($"Name : {Name}, Id : {Id}");
         }
 
-        [HttpPost]
+        [HttpGet]
         public IActionResult ModelBinding_Form([FromForm] StudentData student)
         {
             return View(student);

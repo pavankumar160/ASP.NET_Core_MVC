@@ -4,6 +4,8 @@
     <button type="submit">Submit</button>
 </form> *@
 
+@model StudentData
+
 <form asp-action="SaveStudent" method="post">
     <label asp-for="Name"></label>
     <input asp-for="Name" />
