@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ExceptionFilter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B5033-2DE9-4F22-9208-92A45F3249B5}|ExceptionFilter\\ExceptionFilter.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\exceptionfilter\\exceptionfilter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B5033-2DE9-4F22-9208-92A45F3249B5}|ExceptionFilter\\ExceptionFilter.csproj|solutionrelative:exceptionfilter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B5033-2DE9-4F22-9208-92A45F3249B5}|ExceptionFilter\\ExceptionFilter.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\exceptionfilter\\exceptionfilter\\models\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B5033-2DE9-4F22-9208-92A45F3249B5}|ExceptionFilter\\ExceptionFilter.csproj|solutionrelative:exceptionfilter\\models\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ExceptionFilter\\ExceptionFilter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExceptionFilter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ExceptionFilter\\ExceptionFilter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExceptionFilter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:58:44.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ExceptionFilter\\ExceptionFilter\\Models\\MyExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ExceptionFilter\\Models\\MyExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ExceptionFilter\\ExceptionFilter\\Models\\MyExceptionFilter.cs",
+              "RelativeToolTip": "ExceptionFilter\\Models\\MyExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:57:24.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
