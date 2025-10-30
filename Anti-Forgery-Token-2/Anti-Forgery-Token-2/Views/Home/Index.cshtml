@@ -1,0 +1,6 @@
+﻿<form asp-action="UserValidation" method="post">
+    @Html.AntiForgeryToken()
+    <input name="UserName" />
+    <input name="Password" type="password" />
+    <button type="submit">Login</button>
+</form>

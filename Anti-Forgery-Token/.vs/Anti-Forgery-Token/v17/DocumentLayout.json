@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\views\\home\\noauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\views\\home\\noauthentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\views\\home\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\anti-forgery-token\\anti-forgery-token\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96777CD9-ABFE-40C9-B037-411270D3D7BF}|Anti-Forgery-Token\\Anti-Forgery-Token.csproj|solutionrelative:anti-forgery-token\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NoAuthentication.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\NoAuthentication.cshtml",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Views\\Home\\NoAuthentication.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\NoAuthentication.cshtml",
+              "RelativeToolTip": "Anti-Forgery-Token\\Views\\Home\\NoAuthentication.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T05:34:08.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Program.cs",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Program.cs",
+              "RelativeToolTip": "Anti-Forgery-Token\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:19:24.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Views\\Home\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\Profile.cshtml",
+              "RelativeToolTip": "Anti-Forgery-Token\\Views\\Home\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T05:17:37.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Models\\UserInfo.cs",
+              "RelativeToolTip": "Anti-Forgery-Token\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T05:16:09.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Anti-Forgery-Token\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwCEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T04:51:49.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Anti-Forgery-Token\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\Anti-Forgery-Token\\Anti-Forgery-Token\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Anti-Forgery-Token\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T04:55:00.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

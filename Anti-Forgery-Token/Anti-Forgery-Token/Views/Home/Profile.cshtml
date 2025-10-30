@@ -1,0 +1,13 @@
+﻿<h2>Welcome, @ViewBag.Name!</h2>
+<hr />
+<br />
+
+<form asp-action="WithDraw" asp-controller="Home" method="post">
+	<label><b>Enter Withdraw Amount</b></label><br />
+	<input name = "amount" required type = "number"/>
+	<button type="submit">Go</button>
+</form>
+
+<br />
+<hr />
+<a asp-action="Logout">Logout</a>

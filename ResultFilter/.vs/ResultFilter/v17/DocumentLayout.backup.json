@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter\\resultfilter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|solutionrelative:resultfilter\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter\\resultfilter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|solutionrelative:resultfilter\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter\\resultfilter\\models\\rendertimefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBBD2C15-362A-495F-978E-D40A906E4008}|ResultFilter\\ResultFilter.csproj|solutionrelative:resultfilter\\models\\rendertimefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ResultFilter\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "ResultFilter\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T05:34:47.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RenderTimeFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Models\\RenderTimeFilter.cs",
+              "RelativeDocumentMoniker": "ResultFilter\\Models\\RenderTimeFilter.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Models\\RenderTimeFilter.cs",
+              "RelativeToolTip": "ResultFilter\\Models\\RenderTimeFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T05:33:54.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResultFilter\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter\\ResultFilter\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResultFilter\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T04:58:34.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter-httpheaders\\resultfilter-httpheaders\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|solutionrelative:resultfilter-httpheaders\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter-httpheaders\\resultfilter-httpheaders\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|solutionrelative:resultfilter-httpheaders\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|c:\\users\\pavan madapu\\desktop\\asp.netcore-mvc\\resultfilter-httpheaders\\resultfilter-httpheaders\\models\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF66FCD-21BF-4C8A-833A-DAC57276AA05}|ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders.csproj|solutionrelative:resultfilter-httpheaders\\models\\myexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ResultFilter-HttpHeaders\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ResultFilter-HttpHeaders\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:16:28.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Models\\MyExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ResultFilter-HttpHeaders\\Models\\MyExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Models\\MyExceptionFilter.cs",
+              "RelativeToolTip": "ResultFilter-HttpHeaders\\Models\\MyExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T08:15:53.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ResultFilter-HttpHeaders\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Pavan Madapu\\Desktop\\ASP.NetCore-MVC\\ResultFilter-HttpHeaders\\ResultFilter-HttpHeaders\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ResultFilter-HttpHeaders\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-30T06:53:46.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
